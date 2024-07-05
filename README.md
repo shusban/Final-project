@@ -6,8 +6,6 @@ When prompted, enter the cryptocurrency ID (e.g., "bitcoin", "ethereum","Tether"
 
 This example project demonstrates the use of OOP principles and interaction with a public API to fetch cryptocurrency data. 
 
-The README file provides clear instructions for setting up and using the project.
-
 ## import requests
 
 This line imports the requests library, which is used to make HTTP requests to APIs
